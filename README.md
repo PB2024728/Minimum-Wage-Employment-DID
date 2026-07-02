@@ -1,4 +1,4 @@
-# Minimum Wage & Low-Wage Employment — A State-Panel Difference-in-Differences (Project #4)
+# Minimum Wage & Low-Wage Employment — A State-Panel Difference-in-Differences
 
 **Focus area:** `ECONOMETRICS` (causal inference) ·
 
