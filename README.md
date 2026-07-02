@@ -1,6 +1,6 @@
 # Minimum Wage & Low-Wage Employment — A State-Panel Difference-in-Differences (Project #4)
 
-**Focus area:** `ECONOMETRICS` (causal inference) · **Portfolio:** Pre-Masters Economics (Georgia Tech MS prep)
+**Focus area:** `ECONOMETRICS` (causal inference) ·
 
 ## Research question
 Do statutory state minimum-wage increases reduce employment in low-wage industries? We estimate the effect of state minimum-wage increases on state-level Leisure & Hospitality employment, relative to states with no change.
