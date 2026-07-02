@@ -1,0 +1,1236 @@
+{
+  "n_series": 205,
+  "jurisdictions": 51,
+  "records": [
+    {
+      "jurisdiction": "AK",
+      "name": "Alaska",
+      "role": "treatment",
+      "series_id": "STTMINWGAK"
+    },
+    {
+      "jurisdiction": "AK",
+      "name": "Alaska",
+      "role": "outcome",
+      "series_id": "AKLEIH"
+    },
+    {
+      "jurisdiction": "AK",
+      "name": "Alaska",
+      "role": "normalizer",
+      "series_id": "AKNA"
+    },
+    {
+      "jurisdiction": "AK",
+      "name": "Alaska",
+      "role": "control",
+      "series_id": "AKUR"
+    },
+    {
+      "jurisdiction": "AL",
+      "name": "Alabama",
+      "role": "treatment",
+      "series_id": "STTMINWGAL"
+    },
+    {
+      "jurisdiction": "AL",
+      "name": "Alabama",
+      "role": "outcome",
+      "series_id": "ALLEIH"
+    },
+    {
+      "jurisdiction": "AL",
+      "name": "Alabama",
+      "role": "normalizer",
+      "series_id": "ALNA"
+    },
+    {
+      "jurisdiction": "AL",
+      "name": "Alabama",
+      "role": "control",
+      "series_id": "ALUR"
+    },
+    {
+      "jurisdiction": "AR",
+      "name": "Arkansas",
+      "role": "treatment",
+      "series_id": "STTMINWGAR"
+    },
+    {
+      "jurisdiction": "AR",
+      "name": "Arkansas",
+      "role": "outcome",
+      "series_id": "ARLEIH"
+    },
+    {
+      "jurisdiction": "AR",
+      "name": "Arkansas",
+      "role": "normalizer",
+      "series_id": "ARNA"
+    },
+    {
+      "jurisdiction": "AR",
+      "name": "Arkansas",
+      "role": "control",
+      "series_id": "ARUR"
+    },
+    {
+      "jurisdiction": "AZ",
+      "name": "Arizona",
+      "role": "treatment",
+      "series_id": "STTMINWGAZ"
+    },
+    {
+      "jurisdiction": "AZ",
+      "name": "Arizona",
+      "role": "outcome",
+      "series_id": "AZLEIH"
+    },
+    {
+      "jurisdiction": "AZ",
+      "name": "Arizona",
+      "role": "normalizer",
+      "series_id": "AZNA"
+    },
+    {
+      "jurisdiction": "AZ",
+      "name": "Arizona",
+      "role": "control",
+      "series_id": "AZUR"
+    },
+    {
+      "jurisdiction": "CA",
+      "name": "California",
+      "role": "treatment",
+      "series_id": "STTMINWGCA"
+    },
+    {
+      "jurisdiction": "CA",
+      "name": "California",
+      "role": "outcome",
+      "series_id": "CALEIH"
+    },
+    {
+      "jurisdiction": "CA",
+      "name": "California",
+      "role": "normalizer",
+      "series_id": "CANA"
+    },
+    {
+      "jurisdiction": "CA",
+      "name": "California",
+      "role": "control",
+      "series_id": "CAUR"
+    },
+    {
+      "jurisdiction": "CO",
+      "name": "Colorado",
+      "role": "treatment",
+      "series_id": "STTMINWGCO"
+    },
+    {
+      "jurisdiction": "CO",
+      "name": "Colorado",
+      "role": "outcome",
+      "series_id": "COLEIH"
+    },
+    {
+      "jurisdiction": "CO",
+      "name": "Colorado",
+      "role": "normalizer",
+      "series_id": "CONA"
+    },
+    {
+      "jurisdiction": "CO",
+      "name": "Colorado",
+      "role": "control",
+      "series_id": "COUR"
+    },
+    {
+      "jurisdiction": "CT",
+      "name": "Connecticut",
+      "role": "treatment",
+      "series_id": "STTMINWGCT"
+    },
+    {
+      "jurisdiction": "CT",
+      "name": "Connecticut",
+      "role": "outcome",
+      "series_id": "CTLEIH"
+    },
+    {
+      "jurisdiction": "CT",
+      "name": "Connecticut",
+      "role": "normalizer",
+      "series_id": "CTNA"
+    },
+    {
+      "jurisdiction": "CT",
+      "name": "Connecticut",
+      "role": "control",
+      "series_id": "CTUR"
+    },
+    {
+      "jurisdiction": "DC",
+      "name": "District of Columbia",
+      "role": "treatment",
+      "series_id": "STTMINWGDC"
+    },
+    {
+      "jurisdiction": "DC",
+      "name": "District of Columbia",
+      "role": "outcome",
+      "series_id": "DCLEIH"
+    },
+    {
+      "jurisdiction": "DC",
+      "name": "District of Columbia",
+      "role": "normalizer",
+      "series_id": "DCNA"
+    },
+    {
+      "jurisdiction": "DC",
+      "name": "District of Columbia",
+      "role": "control",
+      "series_id": "DCUR"
+    },
+    {
+      "jurisdiction": "DE",
+      "name": "Delaware",
+      "role": "treatment",
+      "series_id": "STTMINWGDE"
+    },
+    {
+      "jurisdiction": "DE",
+      "name": "Delaware",
+      "role": "outcome",
+      "series_id": "DELEIH"
+    },
+    {
+      "jurisdiction": "DE",
+      "name": "Delaware",
+      "role": "normalizer",
+      "series_id": "DENA"
+    },
+    {
+      "jurisdiction": "DE",
+      "name": "Delaware",
+      "role": "control",
+      "series_id": "DEUR"
+    },
+    {
+      "jurisdiction": "FL",
+      "name": "Florida",
+      "role": "treatment",
+      "series_id": "STTMINWGFL"
+    },
+    {
+      "jurisdiction": "FL",
+      "name": "Florida",
+      "role": "outcome",
+      "series_id": "FLLEIH"
+    },
+    {
+      "jurisdiction": "FL",
+      "name": "Florida",
+      "role": "normalizer",
+      "series_id": "FLNA"
+    },
+    {
+      "jurisdiction": "FL",
+      "name": "Florida",
+      "role": "control",
+      "series_id": "FLUR"
+    },
+    {
+      "jurisdiction": "GA",
+      "name": "Georgia",
+      "role": "treatment",
+      "series_id": "STTMINWGGA"
+    },
+    {
+      "jurisdiction": "GA",
+      "name": "Georgia",
+      "role": "outcome",
+      "series_id": "GALEIH"
+    },
+    {
+      "jurisdiction": "GA",
+      "name": "Georgia",
+      "role": "normalizer",
+      "series_id": "GANA"
+    },
+    {
+      "jurisdiction": "GA",
+      "name": "Georgia",
+      "role": "control",
+      "series_id": "GAUR"
+    },
+    {
+      "jurisdiction": "HI",
+      "name": "Hawaii",
+      "role": "treatment",
+      "series_id": "STTMINWGHI"
+    },
+    {
+      "jurisdiction": "HI",
+      "name": "Hawaii",
+      "role": "outcome",
+      "series_id": "HILEIH"
+    },
+    {
+      "jurisdiction": "HI",
+      "name": "Hawaii",
+      "role": "normalizer",
+      "series_id": "HINA"
+    },
+    {
+      "jurisdiction": "HI",
+      "name": "Hawaii",
+      "role": "control",
+      "series_id": "HIUR"
+    },
+    {
+      "jurisdiction": "IA",
+      "name": "Iowa",
+      "role": "treatment",
+      "series_id": "STTMINWGIA"
+    },
+    {
+      "jurisdiction": "IA",
+      "name": "Iowa",
+      "role": "outcome",
+      "series_id": "IALEIH"
+    },
+    {
+      "jurisdiction": "IA",
+      "name": "Iowa",
+      "role": "normalizer",
+      "series_id": "IANA"
+    },
+    {
+      "jurisdiction": "IA",
+      "name": "Iowa",
+      "role": "control",
+      "series_id": "IAUR"
+    },
+    {
+      "jurisdiction": "ID",
+      "name": "Idaho",
+      "role": "treatment",
+      "series_id": "STTMINWGID"
+    },
+    {
+      "jurisdiction": "ID",
+      "name": "Idaho",
+      "role": "outcome",
+      "series_id": "IDLEIH"
+    },
+    {
+      "jurisdiction": "ID",
+      "name": "Idaho",
+      "role": "normalizer",
+      "series_id": "IDNA"
+    },
+    {
+      "jurisdiction": "ID",
+      "name": "Idaho",
+      "role": "control",
+      "series_id": "IDUR"
+    },
+    {
+      "jurisdiction": "IL",
+      "name": "Illinois",
+      "role": "treatment",
+      "series_id": "STTMINWGIL"
+    },
+    {
+      "jurisdiction": "IL",
+      "name": "Illinois",
+      "role": "outcome",
+      "series_id": "ILLEIH"
+    },
+    {
+      "jurisdiction": "IL",
+      "name": "Illinois",
+      "role": "normalizer",
+      "series_id": "ILNA"
+    },
+    {
+      "jurisdiction": "IL",
+      "name": "Illinois",
+      "role": "control",
+      "series_id": "ILUR"
+    },
+    {
+      "jurisdiction": "IN",
+      "name": "Indiana",
+      "role": "treatment",
+      "series_id": "STTMINWGIN"
+    },
+    {
+      "jurisdiction": "IN",
+      "name": "Indiana",
+      "role": "outcome",
+      "series_id": "INLEIH"
+    },
+    {
+      "jurisdiction": "IN",
+      "name": "Indiana",
+      "role": "normalizer",
+      "series_id": "INNA"
+    },
+    {
+      "jurisdiction": "IN",
+      "name": "Indiana",
+      "role": "control",
+      "series_id": "INUR"
+    },
+    {
+      "jurisdiction": "KS",
+      "name": "Kansas",
+      "role": "treatment",
+      "series_id": "STTMINWGKS"
+    },
+    {
+      "jurisdiction": "KS",
+      "name": "Kansas",
+      "role": "outcome",
+      "series_id": "KSLEIH"
+    },
+    {
+      "jurisdiction": "KS",
+      "name": "Kansas",
+      "role": "normalizer",
+      "series_id": "KSNA"
+    },
+    {
+      "jurisdiction": "KS",
+      "name": "Kansas",
+      "role": "control",
+      "series_id": "KSUR"
+    },
+    {
+      "jurisdiction": "KY",
+      "name": "Kentucky",
+      "role": "treatment",
+      "series_id": "STTMINWGKY"
+    },
+    {
+      "jurisdiction": "KY",
+      "name": "Kentucky",
+      "role": "outcome",
+      "series_id": "KYLEIH"
+    },
+    {
+      "jurisdiction": "KY",
+      "name": "Kentucky",
+      "role": "normalizer",
+      "series_id": "KYNA"
+    },
+    {
+      "jurisdiction": "KY",
+      "name": "Kentucky",
+      "role": "control",
+      "series_id": "KYUR"
+    },
+    {
+      "jurisdiction": "LA",
+      "name": "Louisiana",
+      "role": "treatment",
+      "series_id": "STTMINWGLA"
+    },
+    {
+      "jurisdiction": "LA",
+      "name": "Louisiana",
+      "role": "outcome",
+      "series_id": "LALEIH"
+    },
+    {
+      "jurisdiction": "LA",
+      "name": "Louisiana",
+      "role": "normalizer",
+      "series_id": "LANA"
+    },
+    {
+      "jurisdiction": "LA",
+      "name": "Louisiana",
+      "role": "control",
+      "series_id": "LAUR"
+    },
+    {
+      "jurisdiction": "MA",
+      "name": "Massachusetts",
+      "role": "treatment",
+      "series_id": "STTMINWGMA"
+    },
+    {
+      "jurisdiction": "MA",
+      "name": "Massachusetts",
+      "role": "outcome",
+      "series_id": "MALEIH"
+    },
+    {
+      "jurisdiction": "MA",
+      "name": "Massachusetts",
+      "role": "normalizer",
+      "series_id": "MANA"
+    },
+    {
+      "jurisdiction": "MA",
+      "name": "Massachusetts",
+      "role": "control",
+      "series_id": "MAUR"
+    },
+    {
+      "jurisdiction": "MD",
+      "name": "Maryland",
+      "role": "treatment",
+      "series_id": "STTMINWGMD"
+    },
+    {
+      "jurisdiction": "MD",
+      "name": "Maryland",
+      "role": "outcome",
+      "series_id": "MDLEIH"
+    },
+    {
+      "jurisdiction": "MD",
+      "name": "Maryland",
+      "role": "normalizer",
+      "series_id": "MDNA"
+    },
+    {
+      "jurisdiction": "MD",
+      "name": "Maryland",
+      "role": "control",
+      "series_id": "MDUR"
+    },
+    {
+      "jurisdiction": "ME",
+      "name": "Maine",
+      "role": "treatment",
+      "series_id": "STTMINWGME"
+    },
+    {
+      "jurisdiction": "ME",
+      "name": "Maine",
+      "role": "outcome",
+      "series_id": "MELEIH"
+    },
+    {
+      "jurisdiction": "ME",
+      "name": "Maine",
+      "role": "normalizer",
+      "series_id": "MENA"
+    },
+    {
+      "jurisdiction": "ME",
+      "name": "Maine",
+      "role": "control",
+      "series_id": "MEUR"
+    },
+    {
+      "jurisdiction": "MI",
+      "name": "Michigan",
+      "role": "treatment",
+      "series_id": "STTMINWGMI"
+    },
+    {
+      "jurisdiction": "MI",
+      "name": "Michigan",
+      "role": "outcome",
+      "series_id": "MILEIH"
+    },
+    {
+      "jurisdiction": "MI",
+      "name": "Michigan",
+      "role": "normalizer",
+      "series_id": "MINA"
+    },
+    {
+      "jurisdiction": "MI",
+      "name": "Michigan",
+      "role": "control",
+      "series_id": "MIUR"
+    },
+    {
+      "jurisdiction": "MN",
+      "name": "Minnesota",
+      "role": "treatment",
+      "series_id": "STTMINWGMN"
+    },
+    {
+      "jurisdiction": "MN",
+      "name": "Minnesota",
+      "role": "outcome",
+      "series_id": "MNLEIH"
+    },
+    {
+      "jurisdiction": "MN",
+      "name": "Minnesota",
+      "role": "normalizer",
+      "series_id": "MNNA"
+    },
+    {
+      "jurisdiction": "MN",
+      "name": "Minnesota",
+      "role": "control",
+      "series_id": "MNUR"
+    },
+    {
+      "jurisdiction": "MO",
+      "name": "Missouri",
+      "role": "treatment",
+      "series_id": "STTMINWGMO"
+    },
+    {
+      "jurisdiction": "MO",
+      "name": "Missouri",
+      "role": "outcome",
+      "series_id": "MOLEIH"
+    },
+    {
+      "jurisdiction": "MO",
+      "name": "Missouri",
+      "role": "normalizer",
+      "series_id": "MONA"
+    },
+    {
+      "jurisdiction": "MO",
+      "name": "Missouri",
+      "role": "control",
+      "series_id": "MOUR"
+    },
+    {
+      "jurisdiction": "MS",
+      "name": "Mississippi",
+      "role": "treatment",
+      "series_id": "STTMINWGMS"
+    },
+    {
+      "jurisdiction": "MS",
+      "name": "Mississippi",
+      "role": "outcome",
+      "series_id": "MSLEIH"
+    },
+    {
+      "jurisdiction": "MS",
+      "name": "Mississippi",
+      "role": "normalizer",
+      "series_id": "MSNA"
+    },
+    {
+      "jurisdiction": "MS",
+      "name": "Mississippi",
+      "role": "control",
+      "series_id": "MSUR"
+    },
+    {
+      "jurisdiction": "MT",
+      "name": "Montana",
+      "role": "treatment",
+      "series_id": "STTMINWGMT"
+    },
+    {
+      "jurisdiction": "MT",
+      "name": "Montana",
+      "role": "outcome",
+      "series_id": "MTLEIH"
+    },
+    {
+      "jurisdiction": "MT",
+      "name": "Montana",
+      "role": "normalizer",
+      "series_id": "MTNA"
+    },
+    {
+      "jurisdiction": "MT",
+      "name": "Montana",
+      "role": "control",
+      "series_id": "MTUR"
+    },
+    {
+      "jurisdiction": "NC",
+      "name": "North Carolina",
+      "role": "treatment",
+      "series_id": "STTMINWGNC"
+    },
+    {
+      "jurisdiction": "NC",
+      "name": "North Carolina",
+      "role": "outcome",
+      "series_id": "NCLEIH"
+    },
+    {
+      "jurisdiction": "NC",
+      "name": "North Carolina",
+      "role": "normalizer",
+      "series_id": "NCNA"
+    },
+    {
+      "jurisdiction": "NC",
+      "name": "North Carolina",
+      "role": "control",
+      "series_id": "NCUR"
+    },
+    {
+      "jurisdiction": "ND",
+      "name": "North Dakota",
+      "role": "treatment",
+      "series_id": "STTMINWGND"
+    },
+    {
+      "jurisdiction": "ND",
+      "name": "North Dakota",
+      "role": "outcome",
+      "series_id": "NDLEIH"
+    },
+    {
+      "jurisdiction": "ND",
+      "name": "North Dakota",
+      "role": "normalizer",
+      "series_id": "NDNA"
+    },
+    {
+      "jurisdiction": "ND",
+      "name": "North Dakota",
+      "role": "control",
+      "series_id": "NDUR"
+    },
+    {
+      "jurisdiction": "NE",
+      "name": "Nebraska",
+      "role": "treatment",
+      "series_id": "STTMINWGNE"
+    },
+    {
+      "jurisdiction": "NE",
+      "name": "Nebraska",
+      "role": "outcome",
+      "series_id": "NELEIH"
+    },
+    {
+      "jurisdiction": "NE",
+      "name": "Nebraska",
+      "role": "normalizer",
+      "series_id": "NENA"
+    },
+    {
+      "jurisdiction": "NE",
+      "name": "Nebraska",
+      "role": "control",
+      "series_id": "NEUR"
+    },
+    {
+      "jurisdiction": "NH",
+      "name": "New Hampshire",
+      "role": "treatment",
+      "series_id": "STTMINWGNH"
+    },
+    {
+      "jurisdiction": "NH",
+      "name": "New Hampshire",
+      "role": "outcome",
+      "series_id": "NHLEIH"
+    },
+    {
+      "jurisdiction": "NH",
+      "name": "New Hampshire",
+      "role": "normalizer",
+      "series_id": "NHNA"
+    },
+    {
+      "jurisdiction": "NH",
+      "name": "New Hampshire",
+      "role": "control",
+      "series_id": "NHUR"
+    },
+    {
+      "jurisdiction": "NJ",
+      "name": "New Jersey",
+      "role": "treatment",
+      "series_id": "STTMINWGNJ"
+    },
+    {
+      "jurisdiction": "NJ",
+      "name": "New Jersey",
+      "role": "outcome",
+      "series_id": "NJLEIH"
+    },
+    {
+      "jurisdiction": "NJ",
+      "name": "New Jersey",
+      "role": "normalizer",
+      "series_id": "NJNA"
+    },
+    {
+      "jurisdiction": "NJ",
+      "name": "New Jersey",
+      "role": "control",
+      "series_id": "NJUR"
+    },
+    {
+      "jurisdiction": "NM",
+      "name": "New Mexico",
+      "role": "treatment",
+      "series_id": "STTMINWGNM"
+    },
+    {
+      "jurisdiction": "NM",
+      "name": "New Mexico",
+      "role": "outcome",
+      "series_id": "NMLEIH"
+    },
+    {
+      "jurisdiction": "NM",
+      "name": "New Mexico",
+      "role": "normalizer",
+      "series_id": "NMNA"
+    },
+    {
+      "jurisdiction": "NM",
+      "name": "New Mexico",
+      "role": "control",
+      "series_id": "NMUR"
+    },
+    {
+      "jurisdiction": "NV",
+      "name": "Nevada",
+      "role": "treatment",
+      "series_id": "STTMINWGNV"
+    },
+    {
+      "jurisdiction": "NV",
+      "name": "Nevada",
+      "role": "outcome",
+      "series_id": "NVLEIH"
+    },
+    {
+      "jurisdiction": "NV",
+      "name": "Nevada",
+      "role": "normalizer",
+      "series_id": "NVNA"
+    },
+    {
+      "jurisdiction": "NV",
+      "name": "Nevada",
+      "role": "control",
+      "series_id": "NVUR"
+    },
+    {
+      "jurisdiction": "NY",
+      "name": "New York",
+      "role": "treatment",
+      "series_id": "STTMINWGNY"
+    },
+    {
+      "jurisdiction": "NY",
+      "name": "New York",
+      "role": "outcome",
+      "series_id": "NYLEIH"
+    },
+    {
+      "jurisdiction": "NY",
+      "name": "New York",
+      "role": "normalizer",
+      "series_id": "NYNA"
+    },
+    {
+      "jurisdiction": "NY",
+      "name": "New York",
+      "role": "control",
+      "series_id": "NYUR"
+    },
+    {
+      "jurisdiction": "OH",
+      "name": "Ohio",
+      "role": "treatment",
+      "series_id": "STTMINWGOH"
+    },
+    {
+      "jurisdiction": "OH",
+      "name": "Ohio",
+      "role": "outcome",
+      "series_id": "OHLEIH"
+    },
+    {
+      "jurisdiction": "OH",
+      "name": "Ohio",
+      "role": "normalizer",
+      "series_id": "OHNA"
+    },
+    {
+      "jurisdiction": "OH",
+      "name": "Ohio",
+      "role": "control",
+      "series_id": "OHUR"
+    },
+    {
+      "jurisdiction": "OK",
+      "name": "Oklahoma",
+      "role": "treatment",
+      "series_id": "STTMINWGOK"
+    },
+    {
+      "jurisdiction": "OK",
+      "name": "Oklahoma",
+      "role": "outcome",
+      "series_id": "OKLEIH"
+    },
+    {
+      "jurisdiction": "OK",
+      "name": "Oklahoma",
+      "role": "normalizer",
+      "series_id": "OKNA"
+    },
+    {
+      "jurisdiction": "OK",
+      "name": "Oklahoma",
+      "role": "control",
+      "series_id": "OKUR"
+    },
+    {
+      "jurisdiction": "OR",
+      "name": "Oregon",
+      "role": "treatment",
+      "series_id": "STTMINWGOR"
+    },
+    {
+      "jurisdiction": "OR",
+      "name": "Oregon",
+      "role": "outcome",
+      "series_id": "ORLEIH"
+    },
+    {
+      "jurisdiction": "OR",
+      "name": "Oregon",
+      "role": "normalizer",
+      "series_id": "ORNA"
+    },
+    {
+      "jurisdiction": "OR",
+      "name": "Oregon",
+      "role": "control",
+      "series_id": "ORUR"
+    },
+    {
+      "jurisdiction": "PA",
+      "name": "Pennsylvania",
+      "role": "treatment",
+      "series_id": "STTMINWGPA"
+    },
+    {
+      "jurisdiction": "PA",
+      "name": "Pennsylvania",
+      "role": "outcome",
+      "series_id": "PALEIH"
+    },
+    {
+      "jurisdiction": "PA",
+      "name": "Pennsylvania",
+      "role": "normalizer",
+      "series_id": "PANA"
+    },
+    {
+      "jurisdiction": "PA",
+      "name": "Pennsylvania",
+      "role": "control",
+      "series_id": "PAUR"
+    },
+    {
+      "jurisdiction": "RI",
+      "name": "Rhode Island",
+      "role": "treatment",
+      "series_id": "STTMINWGRI"
+    },
+    {
+      "jurisdiction": "RI",
+      "name": "Rhode Island",
+      "role": "outcome",
+      "series_id": "RILEIH"
+    },
+    {
+      "jurisdiction": "RI",
+      "name": "Rhode Island",
+      "role": "normalizer",
+      "series_id": "RINA"
+    },
+    {
+      "jurisdiction": "RI",
+      "name": "Rhode Island",
+      "role": "control",
+      "series_id": "RIUR"
+    },
+    {
+      "jurisdiction": "SC",
+      "name": "South Carolina",
+      "role": "treatment",
+      "series_id": "STTMINWGSC"
+    },
+    {
+      "jurisdiction": "SC",
+      "name": "South Carolina",
+      "role": "outcome",
+      "series_id": "SCLEIH"
+    },
+    {
+      "jurisdiction": "SC",
+      "name": "South Carolina",
+      "role": "normalizer",
+      "series_id": "SCNA"
+    },
+    {
+      "jurisdiction": "SC",
+      "name": "South Carolina",
+      "role": "control",
+      "series_id": "SCUR"
+    },
+    {
+      "jurisdiction": "SD",
+      "name": "South Dakota",
+      "role": "treatment",
+      "series_id": "STTMINWGSD"
+    },
+    {
+      "jurisdiction": "SD",
+      "name": "South Dakota",
+      "role": "outcome",
+      "series_id": "SDLEIH"
+    },
+    {
+      "jurisdiction": "SD",
+      "name": "South Dakota",
+      "role": "normalizer",
+      "series_id": "SDNA"
+    },
+    {
+      "jurisdiction": "SD",
+      "name": "South Dakota",
+      "role": "control",
+      "series_id": "SDUR"
+    },
+    {
+      "jurisdiction": "TN",
+      "name": "Tennessee",
+      "role": "treatment",
+      "series_id": "STTMINWGTN"
+    },
+    {
+      "jurisdiction": "TN",
+      "name": "Tennessee",
+      "role": "outcome",
+      "series_id": "TNLEIH"
+    },
+    {
+      "jurisdiction": "TN",
+      "name": "Tennessee",
+      "role": "normalizer",
+      "series_id": "TNNA"
+    },
+    {
+      "jurisdiction": "TN",
+      "name": "Tennessee",
+      "role": "control",
+      "series_id": "TNUR"
+    },
+    {
+      "jurisdiction": "TX",
+      "name": "Texas",
+      "role": "treatment",
+      "series_id": "STTMINWGTX"
+    },
+    {
+      "jurisdiction": "TX",
+      "name": "Texas",
+      "role": "outcome",
+      "series_id": "TXLEIH"
+    },
+    {
+      "jurisdiction": "TX",
+      "name": "Texas",
+      "role": "normalizer",
+      "series_id": "TXNA"
+    },
+    {
+      "jurisdiction": "TX",
+      "name": "Texas",
+      "role": "control",
+      "series_id": "TXUR"
+    },
+    {
+      "jurisdiction": "UT",
+      "name": "Utah",
+      "role": "treatment",
+      "series_id": "STTMINWGUT"
+    },
+    {
+      "jurisdiction": "UT",
+      "name": "Utah",
+      "role": "outcome",
+      "series_id": "UTLEIH"
+    },
+    {
+      "jurisdiction": "UT",
+      "name": "Utah",
+      "role": "normalizer",
+      "series_id": "UTNA"
+    },
+    {
+      "jurisdiction": "UT",
+      "name": "Utah",
+      "role": "control",
+      "series_id": "UTUR"
+    },
+    {
+      "jurisdiction": "VA",
+      "name": "Virginia",
+      "role": "treatment",
+      "series_id": "STTMINWGVA"
+    },
+    {
+      "jurisdiction": "VA",
+      "name": "Virginia",
+      "role": "outcome",
+      "series_id": "VALEIH"
+    },
+    {
+      "jurisdiction": "VA",
+      "name": "Virginia",
+      "role": "normalizer",
+      "series_id": "VANA"
+    },
+    {
+      "jurisdiction": "VA",
+      "name": "Virginia",
+      "role": "control",
+      "series_id": "VAUR"
+    },
+    {
+      "jurisdiction": "VT",
+      "name": "Vermont",
+      "role": "treatment",
+      "series_id": "STTMINWGVT"
+    },
+    {
+      "jurisdiction": "VT",
+      "name": "Vermont",
+      "role": "outcome",
+      "series_id": "VTLEIH"
+    },
+    {
+      "jurisdiction": "VT",
+      "name": "Vermont",
+      "role": "normalizer",
+      "series_id": "VTNA"
+    },
+    {
+      "jurisdiction": "VT",
+      "name": "Vermont",
+      "role": "control",
+      "series_id": "VTUR"
+    },
+    {
+      "jurisdiction": "WA",
+      "name": "Washington",
+      "role": "treatment",
+      "series_id": "STTMINWGWA"
+    },
+    {
+      "jurisdiction": "WA",
+      "name": "Washington",
+      "role": "outcome",
+      "series_id": "WALEIH"
+    },
+    {
+      "jurisdiction": "WA",
+      "name": "Washington",
+      "role": "normalizer",
+      "series_id": "WANA"
+    },
+    {
+      "jurisdiction": "WA",
+      "name": "Washington",
+      "role": "control",
+      "series_id": "WAUR"
+    },
+    {
+      "jurisdiction": "WI",
+      "name": "Wisconsin",
+      "role": "treatment",
+      "series_id": "STTMINWGWI"
+    },
+    {
+      "jurisdiction": "WI",
+      "name": "Wisconsin",
+      "role": "outcome",
+      "series_id": "WILEIH"
+    },
+    {
+      "jurisdiction": "WI",
+      "name": "Wisconsin",
+      "role": "normalizer",
+      "series_id": "WINA"
+    },
+    {
+      "jurisdiction": "WI",
+      "name": "Wisconsin",
+      "role": "control",
+      "series_id": "WIUR"
+    },
+    {
+      "jurisdiction": "WV",
+      "name": "West Virginia",
+      "role": "treatment",
+      "series_id": "STTMINWGWV"
+    },
+    {
+      "jurisdiction": "WV",
+      "name": "West Virginia",
+      "role": "outcome",
+      "series_id": "WVLEIH"
+    },
+    {
+      "jurisdiction": "WV",
+      "name": "West Virginia",
+      "role": "normalizer",
+      "series_id": "WVNA"
+    },
+    {
+      "jurisdiction": "WV",
+      "name": "West Virginia",
+      "role": "control",
+      "series_id": "WVUR"
+    },
+    {
+      "jurisdiction": "WY",
+      "name": "Wyoming",
+      "role": "treatment",
+      "series_id": "STTMINWGWY"
+    },
+    {
+      "jurisdiction": "WY",
+      "name": "Wyoming",
+      "role": "outcome",
+      "series_id": "WYLEIH"
+    },
+    {
+      "jurisdiction": "WY",
+      "name": "Wyoming",
+      "role": "normalizer",
+      "series_id": "WYNA"
+    },
+    {
+      "jurisdiction": "WY",
+      "name": "Wyoming",
+      "role": "control",
+      "series_id": "WYUR"
+    },
+    {
+      "jurisdiction": "US",
+      "name": "United States",
+      "role": "federal_min_wage",
+      "series_id": "FEDMINNFRWG"
+    }
+  ]
+}

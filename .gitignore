@@ -1,0 +1,34 @@
+# Environments & secrets
+.venv/
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Data caches (raw/processed pulls are regenerated from FRED)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Results scratch (keep folder, ignore large/intermediate artifacts)
+results/*.tmp
+
+# Planning & personal deliverables (kept local, not for the repo)
+minwage-did-presentation*.pptx
+*.pptx
+*.CORRUPT-ORIGINAL.bak
+*.bak
+WEEK_SCHEDULE.md
+project-plan.md
+PROPOSAL_minwage-did.md
+LINKEDIN_DRAFT.docx
+
+# OS
+.DS_Store
+Thumbs.db

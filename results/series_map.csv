@@ -1,0 +1,206 @@
+jurisdiction,name,role,series_id
+AK,Alaska,treatment,STTMINWGAK
+AK,Alaska,outcome,AKLEIH
+AK,Alaska,normalizer,AKNA
+AK,Alaska,control,AKUR
+AL,Alabama,treatment,STTMINWGAL
+AL,Alabama,outcome,ALLEIH
+AL,Alabama,normalizer,ALNA
+AL,Alabama,control,ALUR
+AR,Arkansas,treatment,STTMINWGAR
+AR,Arkansas,outcome,ARLEIH
+AR,Arkansas,normalizer,ARNA
+AR,Arkansas,control,ARUR
+AZ,Arizona,treatment,STTMINWGAZ
+AZ,Arizona,outcome,AZLEIH
+AZ,Arizona,normalizer,AZNA
+AZ,Arizona,control,AZUR
+CA,California,treatment,STTMINWGCA
+CA,California,outcome,CALEIH
+CA,California,normalizer,CANA
+CA,California,control,CAUR
+CO,Colorado,treatment,STTMINWGCO
+CO,Colorado,outcome,COLEIH
+CO,Colorado,normalizer,CONA
+CO,Colorado,control,COUR
+CT,Connecticut,treatment,STTMINWGCT
+CT,Connecticut,outcome,CTLEIH
+CT,Connecticut,normalizer,CTNA
+CT,Connecticut,control,CTUR
+DC,District of Columbia,treatment,STTMINWGDC
+DC,District of Columbia,outcome,DCLEIH
+DC,District of Columbia,normalizer,DCNA
+DC,District of Columbia,control,DCUR
+DE,Delaware,treatment,STTMINWGDE
+DE,Delaware,outcome,DELEIH
+DE,Delaware,normalizer,DENA
+DE,Delaware,control,DEUR
+FL,Florida,treatment,STTMINWGFL
+FL,Florida,outcome,FLLEIH
+FL,Florida,normalizer,FLNA
+FL,Florida,control,FLUR
+GA,Georgia,treatment,STTMINWGGA
+GA,Georgia,outcome,GALEIH
+GA,Georgia,normalizer,GANA
+GA,Georgia,control,GAUR
+HI,Hawaii,treatment,STTMINWGHI
+HI,Hawaii,outcome,HILEIH
+HI,Hawaii,normalizer,HINA
+HI,Hawaii,control,HIUR
+IA,Iowa,treatment,STTMINWGIA
+IA,Iowa,outcome,IALEIH
+IA,Iowa,normalizer,IANA
+IA,Iowa,control,IAUR
+ID,Idaho,treatment,STTMINWGID
+ID,Idaho,outcome,IDLEIH
+ID,Idaho,normalizer,IDNA
+ID,Idaho,control,IDUR
+IL,Illinois,treatment,STTMINWGIL
+IL,Illinois,outcome,ILLEIH
+IL,Illinois,normalizer,ILNA
+IL,Illinois,control,ILUR
+IN,Indiana,treatment,STTMINWGIN
+IN,Indiana,outcome,INLEIH
+IN,Indiana,normalizer,INNA
+IN,Indiana,control,INUR
+KS,Kansas,treatment,STTMINWGKS
+KS,Kansas,outcome,KSLEIH
+KS,Kansas,normalizer,KSNA
+KS,Kansas,control,KSUR
+KY,Kentucky,treatment,STTMINWGKY
+KY,Kentucky,outcome,KYLEIH
+KY,Kentucky,normalizer,KYNA
+KY,Kentucky,control,KYUR
+LA,Louisiana,treatment,STTMINWGLA
+LA,Louisiana,outcome,LALEIH
+LA,Louisiana,normalizer,LANA
+LA,Louisiana,control,LAUR
+MA,Massachusetts,treatment,STTMINWGMA
+MA,Massachusetts,outcome,MALEIH
+MA,Massachusetts,normalizer,MANA
+MA,Massachusetts,control,MAUR
+MD,Maryland,treatment,STTMINWGMD
+MD,Maryland,outcome,MDLEIH
+MD,Maryland,normalizer,MDNA
+MD,Maryland,control,MDUR
+ME,Maine,treatment,STTMINWGME
+ME,Maine,outcome,MELEIH
+ME,Maine,normalizer,MENA
+ME,Maine,control,MEUR
+MI,Michigan,treatment,STTMINWGMI
+MI,Michigan,outcome,MILEIH
+MI,Michigan,normalizer,MINA
+MI,Michigan,control,MIUR
+MN,Minnesota,treatment,STTMINWGMN
+MN,Minnesota,outcome,MNLEIH
+MN,Minnesota,normalizer,MNNA
+MN,Minnesota,control,MNUR
+MO,Missouri,treatment,STTMINWGMO
+MO,Missouri,outcome,MOLEIH
+MO,Missouri,normalizer,MONA
+MO,Missouri,control,MOUR
+MS,Mississippi,treatment,STTMINWGMS
+MS,Mississippi,outcome,MSLEIH
+MS,Mississippi,normalizer,MSNA
+MS,Mississippi,control,MSUR
+MT,Montana,treatment,STTMINWGMT
+MT,Montana,outcome,MTLEIH
+MT,Montana,normalizer,MTNA
+MT,Montana,control,MTUR
+NC,North Carolina,treatment,STTMINWGNC
+NC,North Carolina,outcome,NCLEIH
+NC,North Carolina,normalizer,NCNA
+NC,North Carolina,control,NCUR
+ND,North Dakota,treatment,STTMINWGND
+ND,North Dakota,outcome,NDLEIH
+ND,North Dakota,normalizer,NDNA
+ND,North Dakota,control,NDUR
+NE,Nebraska,treatment,STTMINWGNE
+NE,Nebraska,outcome,NELEIH
+NE,Nebraska,normalizer,NENA
+NE,Nebraska,control,NEUR
+NH,New Hampshire,treatment,STTMINWGNH
+NH,New Hampshire,outcome,NHLEIH
+NH,New Hampshire,normalizer,NHNA
+NH,New Hampshire,control,NHUR
+NJ,New Jersey,treatment,STTMINWGNJ
+NJ,New Jersey,outcome,NJLEIH
+NJ,New Jersey,normalizer,NJNA
+NJ,New Jersey,control,NJUR
+NM,New Mexico,treatment,STTMINWGNM
+NM,New Mexico,outcome,NMLEIH
+NM,New Mexico,normalizer,NMNA
+NM,New Mexico,control,NMUR
+NV,Nevada,treatment,STTMINWGNV
+NV,Nevada,outcome,NVLEIH
+NV,Nevada,normalizer,NVNA
+NV,Nevada,control,NVUR
+NY,New York,treatment,STTMINWGNY
+NY,New York,outcome,NYLEIH
+NY,New York,normalizer,NYNA
+NY,New York,control,NYUR
+OH,Ohio,treatment,STTMINWGOH
+OH,Ohio,outcome,OHLEIH
+OH,Ohio,normalizer,OHNA
+OH,Ohio,control,OHUR
+OK,Oklahoma,treatment,STTMINWGOK
+OK,Oklahoma,outcome,OKLEIH
+OK,Oklahoma,normalizer,OKNA
+OK,Oklahoma,control,OKUR
+OR,Oregon,treatment,STTMINWGOR
+OR,Oregon,outcome,ORLEIH
+OR,Oregon,normalizer,ORNA
+OR,Oregon,control,ORUR
+PA,Pennsylvania,treatment,STTMINWGPA
+PA,Pennsylvania,outcome,PALEIH
+PA,Pennsylvania,normalizer,PANA
+PA,Pennsylvania,control,PAUR
+RI,Rhode Island,treatment,STTMINWGRI
+RI,Rhode Island,outcome,RILEIH
+RI,Rhode Island,normalizer,RINA
+RI,Rhode Island,control,RIUR
+SC,South Carolina,treatment,STTMINWGSC
+SC,South Carolina,outcome,SCLEIH
+SC,South Carolina,normalizer,SCNA
+SC,South Carolina,control,SCUR
+SD,South Dakota,treatment,STTMINWGSD
+SD,South Dakota,outcome,SDLEIH
+SD,South Dakota,normalizer,SDNA
+SD,South Dakota,control,SDUR
+TN,Tennessee,treatment,STTMINWGTN
+TN,Tennessee,outcome,TNLEIH
+TN,Tennessee,normalizer,TNNA
+TN,Tennessee,control,TNUR
+TX,Texas,treatment,STTMINWGTX
+TX,Texas,outcome,TXLEIH
+TX,Texas,normalizer,TXNA
+TX,Texas,control,TXUR
+UT,Utah,treatment,STTMINWGUT
+UT,Utah,outcome,UTLEIH
+UT,Utah,normalizer,UTNA
+UT,Utah,control,UTUR
+VA,Virginia,treatment,STTMINWGVA
+VA,Virginia,outcome,VALEIH
+VA,Virginia,normalizer,VANA
+VA,Virginia,control,VAUR
+VT,Vermont,treatment,STTMINWGVT
+VT,Vermont,outcome,VTLEIH
+VT,Vermont,normalizer,VTNA
+VT,Vermont,control,VTUR
+WA,Washington,treatment,STTMINWGWA
+WA,Washington,outcome,WALEIH
+WA,Washington,normalizer,WANA
+WA,Washington,control,WAUR
+WI,Wisconsin,treatment,STTMINWGWI
+WI,Wisconsin,outcome,WILEIH
+WI,Wisconsin,normalizer,WINA
+WI,Wisconsin,control,WIUR
+WV,West Virginia,treatment,STTMINWGWV
+WV,West Virginia,outcome,WVLEIH
+WV,West Virginia,normalizer,WVNA
+WV,West Virginia,control,WVUR
+WY,Wyoming,treatment,STTMINWGWY
+WY,Wyoming,outcome,WYLEIH
+WY,Wyoming,normalizer,WYNA
+WY,Wyoming,control,WYUR
+US,United States,federal_min_wage,FEDMINNFRWG
